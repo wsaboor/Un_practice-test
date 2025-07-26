@@ -1,0 +1,9 @@
+"region_code","sex","literate_rate","schools_total","schools_with_electricity","student_teacher_ratio"
+"R1","Female",88.8888888888889,40,28,34
+"R1","Male",85.7142857142857,40,28,34
+"R2","Female",87.5,67,13,17.6
+"R2","Male",80,67,13,17.6
+"R3","Female",71.4285714285714,52,19,32.8
+"R3","Male",100,52,19,32.8
+"R4","Female",80,100,26,39.2
+"R4","Male",71.4285714285714,100,26,39.2
